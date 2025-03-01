@@ -1,6 +1,3 @@
-# repo
-//Proyecto en construccion
+<h1> Sistema de registro</h1>
 
-Para ejecutar el sistema debes poner:
-
-"npm install react"
+- Estado del proyecto: En construcción.
