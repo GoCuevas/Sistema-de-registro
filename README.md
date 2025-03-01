@@ -6,3 +6,4 @@ Para ejecutar el sistema, debes ingresar:
 
 "npm install react"
 
+Sistema de registro 2
